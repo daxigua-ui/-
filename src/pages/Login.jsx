@@ -47,7 +47,7 @@ export default function Login({ onNavigateToRegister }) {
           <div className="w-16 h-16 bg-blue-600 rounded-2xl flex items-center justify-center text-white mb-4 shadow-lg shadow-blue-500/30">
             <PlaneTakeoff size={32} />
           </div>
-          <h1 className="text-2xl font-bold text-white tracking-tight">仿真物流平台1111</h1>
+          <h1 className="text-2xl font-bold text-white tracking-tight">仿真物流平台</h1>
           <p className="text-sm text-white/70 mt-2">欢迎回来，请登录您的账号</p>
         </div>
 
